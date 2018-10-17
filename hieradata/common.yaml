@@ -1,0 +1,6 @@
+---
+
+profile::install_tree::package_name: "tree"
+
+classes:
+- role::practice
